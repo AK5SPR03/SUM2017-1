@@ -3,6 +3,8 @@
  * DATE: 06.06.2017
  * PURPOSE: solve SLAE.
  */
+ 
+ /* govnocode */
 
 #include <stdio.h>
 #include <math.h>
