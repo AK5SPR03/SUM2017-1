@@ -3,6 +3,7 @@
  * DATE: 07.06.2017
  * PURPOSE: drawing sphere.
  */
+ /* GOVNOCODE */
 
 #include <stdlib.h>
 #include <math.h>
